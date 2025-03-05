@@ -1,0 +1,1 @@
+# Quantum-Synchronizing-Words-Resetting-and-Preparing-Qutrit-States
